@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @chrisnjw
 - 👀 I’m interested in ML and AI
-- 🌱 I’m currently learning CS50's Introduction to Artificial Intelligence with Python
 - 💞️ I’m looking to collaborate on machine learning project
 
 
